@@ -17,11 +17,11 @@
     </property>
 
     <property name="hibernate.connection.username">
-        root
+        ####
     </property>
 
     <property name="hibernate.connection.password">
-        Mm5371876@#
+        **********
     </property>
 
     <!-- Hibernate Properties -->
